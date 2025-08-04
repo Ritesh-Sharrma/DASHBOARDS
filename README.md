@@ -22,7 +22,7 @@ This project is an **HR Analytics Dashboard** created in Power BI to track and a
 ---
 
 ## 🖼 Dashboard Preview:
-![HR Analytics Dashboard](add-screenshot-link-here)
+![HR Analytics Dashboard](https://github.com/Ritesh-Sharrma/DASHBOARDS/blob/main/Screenshot%202025-08-04%20154806.png?raw=true)
 
 ---
 
