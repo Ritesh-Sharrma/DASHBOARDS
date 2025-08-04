@@ -34,7 +34,7 @@ This project is an **HR Analytics Dashboard** created in Power BI to track and a
 ---
 
 ## 🔗 File:
-[Download HR Analytics Dashboard (.pbix)](upload-ka-link-here)
+[Download HR Analytics Dashboard (.pbix)](https://github.com/Ritesh-Sharrma/DASHBOARDS/raw/refs/heads/main/HR%20Analytics%20Dashboard.pbix)
 
 ---
 
